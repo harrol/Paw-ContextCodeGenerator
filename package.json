@@ -1,0 +1,16 @@
+{
+  "name": "ContextCodeGeneratorTS",
+  "version": "1.0.0",
+  "description": "A Paw extension to display the Paw context",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-typescript": "^2.8.2",
+    "del": "^2.0.1",
+    "gulp-zip": "^3.0.2"
+  },
+  "keywords": [
+    "paw"
+  ],
+  "author": "Harro Lissenberg"
+}
